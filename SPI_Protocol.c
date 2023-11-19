@@ -1,14 +1,3 @@
-/****************************
-Project : Pulse Oximeter
-Subject : ESD Project
-Institue : Hochschule Bremerhaven
-Date : 28/12/2022
-File : SPI
-Description: SPI driver to inteface with VHDL SPI code
-References : DAC datasheet, slave_register_description document
-Version : v0_01
-****************************/
-
 #include <stdio.h>
 #include <stdbool.h>
 
